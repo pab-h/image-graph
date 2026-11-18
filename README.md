@@ -18,13 +18,6 @@ cd Image-Graph
 uv sync
 ```
 
-### 3. Executar o projeto
-
-```bash
-uv run python src/main.py
-```
-
-
 ## Estrutura do repositório
 
 
